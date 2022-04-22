@@ -8,7 +8,7 @@
 
 - 기울기 구하는 법
     
-    ![IMG_7956.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7956.heic)
+    ![IMG_7956.heic](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7956.heic)
     
 
 - basic 미분
