@@ -15,7 +15,7 @@
 
 - basic 미분
     
-    ![IMG_7957.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7957.heic)
+    ![IMG_7957.jpg](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7957.jpg)
     
 
 정점을 향해서 (극한) 무수히 많은 점이 가기 위한 기울기..
@@ -30,7 +30,7 @@
 
 x_2의 위치에서 x 가 증가하면 y 도 증가하므로 접선의 기울기는 양수이다. 따라서 x_2 에서 음의 방향으로 움직이면 목적함수를 줄일 수 있다. 즉 f^′ (x_2 )의 반대 방향인 〖-f〗^′ (x_2 )로 이동한다
 
-![스크린샷 2022-04-22 오후 4.01.23.png](2%20Gradient%20Descent%20&%20Learning%20rate/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2022-04-22_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_4.01.23.png)
+![Gradient.png](2%20Gradient%20Descent%20&%20Learning%20rate/Gradient.png)
 
 **기울기가 우리가 구하고자하는 최솟값 경사의 기울기가 줄어드는 방향으로 X값을 구하는 방법**
 
@@ -45,7 +45,7 @@ x_2의 위치에서 x 가 증가하면 y 도 증가하므로 접선의 기울기
 
                                                           계산하기 전 중요한 미분의 기초
 
-![IMG_7958.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7958.heic)
+![IMG_7958.jpg](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7958.jpg)
 
 기울기 벡터
 
