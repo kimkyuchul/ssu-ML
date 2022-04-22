@@ -8,12 +8,12 @@
 
 - 기울기 구하는 법
     
-    ![IMG_7956.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate%/IMG_7956.heic)
+    ![IMG_7956.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7956.heic)
     
 
 - basic 미분
     
-    ![IMG_7957.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate%/IMG_7957.heic)
+    ![IMG_7957.HEIC](2%20Gradient%20Descent%20&%20Learning%20rate/IMG_7957.heic)
     
 
 정점을 향해서 (극한) 무수히 많은 점이 가기 위한 기울기..
